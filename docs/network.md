@@ -17,6 +17,7 @@ Connect the to the `wireless router` wireless network.
 1. Connect to the soundcraft
     1. Use a LAN cable is preferred
     1. Use the wireless hotspot if configured, but be aware we will lose connectivity during setup.
+1. Open the web interface [http://ui-mixer.io](http://ui-mixer.io)
 1. Open up soundcraft UI
 1. Click on the settings icon, the `cog` icon in the top middle. We may need out admin password.
 1. Click on the `network` tab
@@ -27,6 +28,10 @@ Connect the to the `wireless router` wireless network.
     Address: choose DHCP
     WiFi: set to enabled
     ```
+1. Power cycle the mixer to apply settings
+1. Go to [http://ui-mixer.io](http://ui-mixer.io) in your browser
+
+
 ### Troubleshooting
 
 1. I have lost access to soundcraft
