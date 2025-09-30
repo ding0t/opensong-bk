@@ -1,4 +1,6 @@
-# OpenSOng setup
+# OpenSong 
+
+## setup
 
 1. Install OpenSong
 1. Copy Files into `MyDocuments/OpenSong/`
@@ -9,3 +11,7 @@
 We should see the songs listed, if we do not, 
 then we have copied the files to the wrong location, 
 or we need to restart Opensong.
+
+## Resources
+
+- [worship leader app](https://worshipleaderapp.com/en)
